@@ -147,13 +147,6 @@ Dodaje informacje o przewidywanym czasie ukończenia gry, między innymi:
 - Co-op
 - VS
 
-### SuccessStory
-
-Obsługuje osiągnięcia i trofea.
-
-### SuccessStory Fullscreen Helper
-
-Integruje informacje z SuccessStory z Fullscreen Mode.
 
 ### Playnite Achievements
 
@@ -374,17 +367,6 @@ Używaj do:
 15. Sprawdź Tryb FPS.
 16. Uruchom grę i sprawdź limit FPS w RTSS.
 
----
-
-## 14. Najważniejsze informacje
-
-- Gry nie są częścią projektu.
-- Launchery nie są częścią projektu.
-- RTSS należy zainstalować osobno.
-- Każdy użytkownik korzysta z własnych kont.
-- Nie należy udostępniać zapisanych sesji, danych logowania ani prywatnej biblioteki Playnite.
-- Po dodaniu nowych gier wykonaj `Update Game Library`.
-- Nie ma potrzeby konfigurowania bibliotek, z których nie korzystasz.
 
 ---
 
